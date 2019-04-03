@@ -1,2 +1,2 @@
 # leecode_labs
-1 
+One code Everyday!
