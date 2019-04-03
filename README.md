@@ -1,2 +1,2 @@
 # leecode_labs
-codes for leecode
+1 
